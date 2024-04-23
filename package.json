@@ -1,0 +1,23 @@
+{
+  "name": "faisal374-atm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "faisal374-atm": "^1.0.0",
+    "inquirer": "^9.2.16",
+    "save-dev": "^0.0.1-security"
+  }
+}
